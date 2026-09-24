@@ -49,7 +49,7 @@ To drive macro capital allocation and active risk management, I built enterprise
 
 <!-- EMBEDDED DASHBOARD SCREENSHOT CONTEXT -->
 <div style="text-align: center; margin: 25px 0; border: 1px solid #ddd; padding: 15px; border-radius: 8px; background: #fff;">
-  <img src="./images/powerbi-mockup.png" alt="Power BI Executive Banking Dashboard Mockup" style="max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/kkyawtsan/kyawt-portforlio.github.io/blob/main/images/powerbi_mockup.png" alt="Power BI Executive Banking Dashboard Mockup" style="max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" />
   <p style="color: #666; font-style: italic; margin-top: 10px; font-size: 0.9em;">Figure 1.0: Interactive Mockup representing regional loan distribution patterns and real-time asset health metrics.</p>
 </div>
 
