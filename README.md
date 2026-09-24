@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kyawt 👋
 ### Data Product Manager | FinTech & Core Banking Specialist
-📍 Yangon, Myanmar | 📧 [your.email@email.com] | 🔗 [LinkedIn Profile Link]
+📍 Yangon, Myanmar | 📧 [abc@gmail.com] | 🔗 [LinkedIn Profile Link]
 
 ---
 
