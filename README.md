@@ -15,6 +15,40 @@ I am a technical **Product Manager** with over a decade of experience bridging t
 
 ---
 
+## 🛠️ Technical Toolkit & Skills
+*   **Product Management:** Agile/Scrum Sprints, Roadmap Planning, SIT/UAT Governance, Cross-Functional Systems Integration
+*   **Data & Analytics:** Power BI, OBIEE, SQL, PL/SQL, Machine Learning, Data Cleansing, Clustered Data Architecture
+*   **Core Banking Systems:** Oracle Flexcube (Core & Trade Finance modules), Legacy Database Migration & Integrity
+
+---
+
+## 💼 Professional Experience
+
+### **TECHNICAL PRODUCT MANAGER**  
+**MAB Bank** – Yangon, Myanmar | *Sep 2024 – Present*  
+*   **Led a bank-wide KYC Data Cleansing initiative** to bring **200,000+ unstructured unique ID records** into strict alignment with Central Bank of Myanmar (CBM) regulations; reduced data complexity by **97.5%** by engineering a pattern-recognition framework.
+*   **Implemented statistical sampling validation** (achieving high-confidence mapping across 12 region codes via random testing) to automate the correction of branch-specific structural typos (e.g., mapping *KaMaYa* to *KaMaRa*).
+*   **Built enterprise-wide Power BI Dashboards** tracking multi-million dollar Deposit and Loan Portfolios; engineered multi-dimensional data models to visualize regional growth drivers, product composition, and **Portfolio at Risk (PAR %)**.
+*   **Oversee end-to-end Agile product development lifecycles** from conceptual data analysis to final feature launch, managing development sprints and technical requirements.
+
+### **CUSTOMER EXPERIENCE APPLICATION SPECIALIST**  
+**KBZ Bank** – Yangon, Myanmar | *Dec 2020 – Feb 2024*  
+*   **Orchestrated the product roadmap and end-to-end integration architecture** for high-volume wallet platform features, including the launch of the **Visa Virtual Card** and new **Digital Lending & Deposits** modules.
+*   **Translated complex business strategies** into detailed functional specifications, aligning APIs and multiple third-party financial service architectures into a seamless digital wallet platform.
+*   **Headed cross-functional SIT and UAT verification phases**, successfully mitigating project risks, mapping customer segmentations for targeted product growth, and managing post-launch production incident resolutions.
+
+### **RESEARCH ASSISTANT (Machine Learning & Software Reliability)**  
+**Waseda University** – Tokyo, Japan | *May 2019 – Aug 2020*  
+*   **Developed and evaluated multiple Machine Learning and Deep Learning models** to evaluate software reliability growth, leading to a published empirical study in a peer-reviewed global journal.
+*   **Analyzed code sustainability data structures** across industrial and open-source projects, utilizing predictive modeling to flag system architectural vulnerabilities.
+
+### **SENIOR FUNCTIONAL CONSULTANT**  
+**Myanmar Information Technology Pte, Ltd** – Yangon, Myanmar | *Jun 2013 – May 2018*  
+*   **Executed end-to-end Core Banking System Migrations**, taking legacy, unformatted data from scratch levels and successfully converting it into **Oracle Flexcube** Core and Trade Finance modules for two premier local banks.
+*   **Developed advanced SQL and PL/SQL data transformation scripts** to ensure strict data validation, integrity, and performance tuning during massive-volume database extractions.
+*   **Designed complex management information reports (MIS) via OBIEE**, creating automated operational reports that reduced data retrieval turnaround times for complex business and treasury calculations.
+
+---
 ## 📂 Project Portfolio
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
@@ -59,41 +93,8 @@ To drive macro capital allocation and active risk management, I built enterprise
 
 ---
 
-## 🛠️ Technical Toolkit & Skills
-*   **Product Management:** Agile/Scrum Sprints, Roadmap Planning, SIT/UAT Governance, Cross-Functional Systems Integration
-*   **Data & Analytics:** Power BI, OBIEE, SQL, PL/SQL, Machine Learning, Data Cleansing, Clustered Data Architecture
-*   **Core Banking Systems:** Oracle Flexcube (Core & Trade Finance modules), Legacy Database Migration & Integrity
-
----
-
-## 💼 Professional Experience
-
-### **TECHNICAL PRODUCT MANAGER**  
-**MAB Bank** – Yangon, Myanmar | *Sep 2024 – Present*  
-*   **Led a bank-wide KYC Data Cleansing initiative** to bring **200,000+ unstructured unique ID records** into strict alignment with Central Bank of Myanmar (CBM) regulations; reduced data complexity by **97.5%** by engineering a pattern-recognition framework.
-*   **Implemented statistical sampling validation** (achieving high-confidence mapping across 12 region codes via random testing) to automate the correction of branch-specific structural typos (e.g., mapping *KaMaYa* to *KaMaRa*).
-*   **Built enterprise-wide Power BI Dashboards** tracking multi-million dollar Deposit and Loan Portfolios; engineered multi-dimensional data models to visualize regional growth drivers, product composition, and **Portfolio at Risk (PAR %)**.
-*   **Oversee end-to-end Agile product development lifecycles** from conceptual data analysis to final feature launch, managing development sprints and technical requirements.
-
-### **CUSTOMER EXPERIENCE APPLICATION SPECIALIST**  
-**KBZ Bank** – Yangon, Myanmar | *Dec 2020 – Feb 2024*  
-*   **Orchestrated the product roadmap and end-to-end integration architecture** for high-volume wallet platform features, including the launch of the **Visa Virtual Card** and new **Digital Lending & Deposits** modules.
-*   **Translated complex business strategies** into detailed functional specifications, aligning APIs and multiple third-party financial service architectures into a seamless digital wallet platform.
-*   **Headed cross-functional SIT and UAT verification phases**, successfully mitigating project risks, mapping customer segmentations for targeted product growth, and managing post-launch production incident resolutions.
-
-### **RESEARCH ASSISTANT (Machine Learning & Software Reliability)**  
-**Waseda University** – Tokyo, Japan | *May 2019 – Aug 2020*  
-*   **Developed and evaluated multiple Machine Learning and Deep Learning models** to evaluate software reliability growth, leading to a published empirical study in a peer-reviewed global journal.
-*   **Analyzed code sustainability data structures** across industrial and open-source projects, utilizing predictive modeling to flag system architectural vulnerabilities.
-
-### **SENIOR FUNCTIONAL CONSULTANT**  
-**Myanmar Information Technology Pte, Ltd** – Yangon, Myanmar | *Jun 2013 – May 2018*  
-*   **Executed end-to-end Core Banking System Migrations**, taking legacy, unformatted data from scratch levels and successfully converting it into **Oracle Flexcube** Core and Trade Finance modules for two premier local banks.
-*   **Developed advanced SQL and PL/SQL data transformation scripts** to ensure strict data validation, integrity, and performance tuning during massive-volume database extractions.
-*   **Designed complex management information reports (MIS) via OBIEE**, creating automated operational reports that reduced data retrieval turnaround times for complex business and treasury calculations.
-
----
 
 ## 🎓 Education
 *   **Master of Science / Research Track (Focus on Machine & Deep Learning)** – Waseda University, Tokyo, Japan
 *   **Bachelor of Computer Science / Software Engineering**
+* 
