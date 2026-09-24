@@ -49,8 +49,14 @@ I am a technical **Product Manager** with over a decade of experience bridging t
 *   **Designed complex management information reports (MIS) via OBIEE**, creating automated operational reports that reduced data retrieval turnaround times for complex business and treasury calculations.
 
 ---
+
+
+## 🎓 Education
+*   **Master of Science / Research Track (Focus on Machine & Deep Learning)** – Waseda University, Tokyo, Japan
+*   **Bachelor of Computer Science / Software Engineering**
 ## 📂 Project Portfolio
 
+---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
 
   <!-- CARD 1: KYC CLEANSING -->
@@ -92,9 +98,3 @@ To drive macro capital allocation and active risk management, I built enterprise
 </div>
 
 ---
-
-
-## 🎓 Education
-*   **Master of Science / Research Track (Focus on Machine & Deep Learning)** – Waseda University, Tokyo, Japan
-*   **Bachelor of Computer Science / Software Engineering**
-* 
