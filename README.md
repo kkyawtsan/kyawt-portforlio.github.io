@@ -1,5 +1,5 @@
 ### Data Product Manager | FinTech & Core Banking Specialist
-📍 Yangon, Myanmar | 📧 [abc@gmail.com] | 🔗 [LinkedIn Profile Link]
+📍 Elmhurst, NY | 📧 [kkyawtsan7@gmail.com] | 🔗 www.linkedin.com/in/kyawt-kyawt-san-3a1ba382
 
 <!-- OPTIONAL: UNCOMMENT THIS IF YOU UPLOADED A PDF RESUME
 <p align="center">
@@ -9,24 +9,29 @@
 
 ---
 
-## 🚀 Professional Overview
-I am a technical **Product Manager** with over a decade of experience bridging the gap between core banking infrastructure, business intelligence, and digital product strategy. I specialize in turning massive, unstructured banking datasets into scalable, compliant data engines and executive decision-making tools.
+## Professional Overview
+**Technical Product Manager** with over a decade of experience in core banking, digital transformation, digital wallets, and data analytics. Bridging the gap between business needs and engineering teams in launching consumer financial products, building strategic executive dashboards and leading bank-wide regulatory data cleansing initiatives.
 
 ---
 
-## 🛠️ Technical Toolkit & Skills
+## 🎓 Education
+*   **Master of Engineering, Computer Science** – Waseda University, Tokyo, Japan (Sep 2020)
+*   **Master of Computer Science** – University of Computer Studies, Mandalay, Myanmar (Feb 2012)
+  
+---
+## Technical Skills
 *   **Product Management:** Agile/Scrum Sprints, Roadmap Planning, SIT/UAT Governance, Cross-Functional Systems Integration
-*   **Data & Analytics:** Power BI, OBIEE, SQL, PL/SQL, Machine Learning, Data Cleansing, Clustered Data Architecture
+*   **Data & Analytics:** Python, R, Power BI, OBIEE, SQL, PL/SQL, Data Cleansing, Data Migration
 *   **Core Banking Systems:** Oracle Flexcube (Core & Trade Finance modules), Legacy Database Migration & Integrity
 
 ---
 
-## 💼 Professional Experience
+## Work Experience
 
 ### **TECHNICAL PRODUCT MANAGER**  
 **MAB Bank** – Yangon, Myanmar | *Sep 2024 – Present*  
 *   **Led a bank-wide KYC Data Cleansing initiative** to bring **200,000+ unstructured unique ID records** into strict alignment with Central Bank of Myanmar (CBM) regulations; reduced data complexity by **97.5%** by engineering a pattern-recognition framework.
-*   **Implemented statistical sampling validation** (achieving high-confidence mapping across 12 region codes via random testing) to automate the correction of branch-specific structural typos (e.g., mapping *KaMaYa* to *KaMaRa*).
+*   **Implemented statistical sampling validation** (achieving high-confidence mapping across 12 region codes via random testing) to automate the correction of branch-specific structural typos.
 *   **Built enterprise-wide Power BI Dashboards** tracking multi-million dollar Deposit and Loan Portfolios; engineered multi-dimensional data models to visualize regional growth drivers, product composition, and **Portfolio at Risk (PAR %)**.
 *   **Oversee end-to-end Agile product development lifecycles** from conceptual data analysis to final feature launch, managing development sprints and technical requirements.
 
@@ -49,10 +54,6 @@ I am a technical **Product Manager** with over a decade of experience bridging t
 
 ---
 
-
-## 🎓 Education
-*   **Master of Science / Research Track (Focus on Machine & Deep Learning)** – Waseda University, Tokyo, Japan
-*   **Bachelor of Computer Science / Software Engineering**
 ## 📂 Project Portfolio
 
 ---
