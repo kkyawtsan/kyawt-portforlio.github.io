@@ -30,31 +30,31 @@
 
 ### **TECHNICAL PRODUCT MANAGER**  
 **MAB Bank** – Yangon, Myanmar | *Sep 2024 – Present*  
-*   **Led a bank-wide KYC Data Cleansing initiative** to bring **200,000+ unstructured unique ID records** into strict alignment with Central Bank of Myanmar (CBM) regulations; reduced data complexity by **97.5%** by engineering a pattern-recognition framework.
-*   **Implemented statistical sampling validation** (achieving high-confidence mapping across 12 region codes via random testing) to automate the correction of branch-specific structural typos.
-*   **Built enterprise-wide Power BI Dashboards** tracking multi-million dollar Deposit and Loan Portfolios; engineered multi-dimensional data models to visualize regional growth drivers, product composition, and **Portfolio at Risk (PAR %)**.
-*   **Oversee end-to-end Agile product development lifecycles** from conceptual data analysis to final feature launch, managing development sprints and technical requirements.
+*   Led a bank-wide KYC Data Cleansing initiative to bring **200,000+ unstructured unique ID records** into strict alignment with Central Bank of Myanmar (CBM) regulations; reduced data complexity by **97.5%** by engineering a pattern-recognition framework.
+*   Implemented statistical sampling validation (achieving high-confidence mapping across 12 region codes via random testing) to automate the correction of branch-specific structural typos.
+*   Built enterprise-wide Power BI Dashboards tracking multi-million dollar Deposit and Loan Portfolios; engineered multi-dimensional data models to visualize regional growth drivers, product composition, and Portfolio at Risk (PAR %).
+*   Oversee end-to-end Agile product development lifecycles from conceptual data analysis to final feature launch, managing development sprints and technical requirements.
 
 ### **CUSTOMER EXPERIENCE APPLICATION SPECIALIST**  
 **KBZ Bank** – Yangon, Myanmar | *Dec 2020 – Feb 2024*  
-*   **Orchestrated the product roadmap and end-to-end integration architecture** for high-volume wallet platform features, including the launch of the **Visa Virtual Card** and new **Digital Lending & Deposits** modules.
-*   **Translated complex business strategies** into detailed functional specifications, aligning APIs and multiple third-party financial service architectures into a seamless digital wallet platform.
-*   **Headed cross-functional SIT and UAT verification phases**, successfully mitigating project risks, mapping customer segmentations for targeted product growth, and managing post-launch production incident resolutions.
+*   Orchestrated the product roadmap and end-to-end integration architecture for high-volume wallet platform features, including the launch of the Visa Virtual Card** and new Digital Lending & Deposits modules.
+*   Translated complex business strategies into detailed functional specifications, aligning APIs and multiple third-party financial service architectures into a seamless digital wallet platform.
+*   Headed cross-functional SIT and UAT verification phases, successfully mitigating project risks, mapping customer segmentations for targeted product growth, and managing post-launch production incident resolutions.
 
 ### **RESEARCH ASSISTANT (Machine Learning & Software Reliability)**  
 **Waseda University** – Tokyo, Japan | *May 2019 – Aug 2020*  
-*   **Developed and evaluated multiple Machine Learning and Deep Learning models** to evaluate software reliability growth, leading to a published empirical study in a peer-reviewed global journal.
-*   **Analyzed code sustainability data structures** across industrial and open-source projects, utilizing predictive modeling to flag system architectural vulnerabilities.
+*   Developed and evaluated multiple Machine Learning and Deep Learning models to evaluate software reliability growth, leading to a published empirical study in a peer-reviewed global journal.
+*   Engineered deep cross-project reliability frameworks to accurately predict software defect trends across diverse industrial and open-source datasets.
 
 ### **SENIOR FUNCTIONAL CONSULTANT**  
 **Myanmar Information Technology Pte, Ltd** – Yangon, Myanmar | *Jun 2013 – May 2018*  
-*   **Executed end-to-end Core Banking System Migrations**, taking legacy, unformatted data from scratch levels and successfully converting it into **Oracle Flexcube** Core and Trade Finance modules for two premier local banks.
-*   **Developed advanced SQL and PL/SQL data transformation scripts** to ensure strict data validation, integrity, and performance tuning during massive-volume database extractions.
-*   **Designed complex management information reports (MIS) via OBIEE**, creating automated operational reports that reduced data retrieval turnaround times for complex business and treasury calculations.
+*   Executed end-to-end Core Banking System Migrations, taking legacy, unformatted data from scratch levels and successfully converting it into Oracle Flexcube Core and Trade Finance modules for two premier local banks.
+*   Developed advanced SQL and PL/SQL data transformation scripts to ensure strict data validation, integrity, and performance tuning during massive-volume database extractions.
+*   Designed complex management information reports (MIS) via OBIEE, creating automated operational reports that reduced data retrieval turnaround times for complex business and treasury calculations.
 
 ---
 
-## 📂 Project Portfolio
+## 📂 Projects
 
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
@@ -79,7 +79,7 @@
   <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #f6f8fa; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #0366d6;">🤖 Software Reliability ML Models</h3>
     <p><strong>The Challenge:</strong> Predicting system architectural vulnerabilities and code sustainability across industrial projects.</p>
-    <p><strong>The Solution:</strong> Developed and evaluated Machine Learning and Deep Learning models during research track at Waseda University, Tokyo.</p>
+    <p><strong>The Solution:</strong> Software Reliability AssessmentBuilt Deep Learning models for cross-project software reliability prediction; published an empirical study in a peer-reviewed global journal</p>
     <p style="background: #f3e5f5; color: #7b1fa2; padding: 5px 10px; border-radius: 4px; display: inline-block; font-weight: bold; font-size: 0.9em;">Impact: Peer-Reviewed Journal Publication</p>
   </div>
 
